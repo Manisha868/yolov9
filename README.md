@@ -1,3 +1,6 @@
+#[Trian the YOLOV9 Model on Custom data for object detection](https://github.com/Manisha868/yolov9/blob/main/train_yolov9_object_detection_on_custom_dataset.ipynb)
+
+
 # YOLOv9
 
 Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)
