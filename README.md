@@ -1,4 +1,4 @@
-#[Trian the YOLOV9 Model on Custom data for object detection](https://github.com/Manisha868/yolov9/blob/main/train_yolov9_object_detection_on_custom_dataset.ipynb)
+# [Trian the YOLOV9 Model on Custom data for object detection](https://github.com/Manisha868/yolov9/blob/main/train_yolov9_object_detection_on_custom_dataset.ipynb)
 
 
 # YOLOv9
